@@ -5,6 +5,7 @@
 |  Organization  |  [NPCA※](https://npca.jp)  |
 |  Twitter  |  [@yt_SteinsGate](https://twitter.com/yt_SteinsGate)  |
 |  Hobby  |  インフラ弄り、天体観測、睡眠  |
+
 ※ NPCA = Nada Personal Computer user's Association
 
 ■ Summary
